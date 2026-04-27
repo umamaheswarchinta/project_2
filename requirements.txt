@@ -1,3 +1,4 @@
 polars
 streamlit>=1.53
 streamlit-echarts[pyecharts]>=0.6.0
+plotly.express
